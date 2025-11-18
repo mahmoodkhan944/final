@@ -1864,11 +1864,11 @@
   backdrop-filter: blur(10px);
 }
 
-.cta-box h3 {
+.cta-section h2 {
   font-size: 1.5rem;
   margin-bottom: 20px;
   font-weight: 700;
-  color: #ffffff;
+  color: #f02558;
 }
 
 .cta-box p {
